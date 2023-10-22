@@ -52,11 +52,13 @@ The Power BI dashboards in this folder is the gives clearer insight into what th
 2.	Profit Analysis Dashboard
 3.	Customer Analysis Dashboard
 4.	Product Analysis Dashboard
+
 How to Use
 To explore this project:
 1. Clone the repository to your local machine.
-2. Explore the power BI dashboards to help you in your visuals 
-3. Review the data cleaning process in the in the attached Jupiter Notebook
+2. Explore the power BI dashboards to help you in your visuals
+3. use the link below to explore the interractive dashboard: https://app.powerbi.com/links/TEEvbkADjC?ctid=9a3976cd-d1f4-459c-ad5c-68690b96a9f9&pbi_source=linkShare
+4. Review the data cleaning process in the in the attached Jupiter Notebook
 
 Feel free to reach out if you have any questions or need assistance with the project.
 
